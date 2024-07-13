@@ -3,7 +3,27 @@ guid: 15256a639f5bfef36a79d824c58606e4
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SpacePirate_M
+    second: {fileID: 2100000, guid: 7d2a011fbbf8f2ebf99365b70e58d525, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SpacePirate_diffuse
+    second: {fileID: 2800000, guid: dd92c684f33073894bef4214fc761fdb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SpacePirate_normal
+    second: {fileID: 2800000, guid: d639af4963454f4b289c742da530eb4e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SpacePirate_specular
+    second: {fileID: 2800000, guid: b558f94aa102cd2ba96e93e541a998a4, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
